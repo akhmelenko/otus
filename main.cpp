@@ -1,6 +1,6 @@
 #include "version/version.h"
-#include "db/dummy_connection.h"
 #include "db/db.h"
+#include "db/dummy_connection.h"
 
 #include <iostream>
 
