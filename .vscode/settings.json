@@ -58,8 +58,6 @@
         "condition_variable": "cpp",
         "map": "cpp",
         "set": "cpp",
-        "span": "cpp",
-        "fstream": "cpp",
-        "iomanip": "cpp"
+        "span": "cpp"
     }
 }
